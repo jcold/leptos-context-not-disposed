@@ -1,10 +1,7 @@
-# Leptos Counter Example
+# Leptos Bug Reproduction
 
-This example creates a simple counter in a client side rendered app with Rust and WASM!
+This example demonstrates a bug in Leptos where a context is not disposed of when its owner is destroyed.
 
-## Getting Started
-
-See the [Examples README](../README.md) for setup and run instructions.
 
 ## Quick Start
 
